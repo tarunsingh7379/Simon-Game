@@ -7,3 +7,8 @@
 ### Now if it shows you Yellow colour
 ### Then you have to press Red and then Yellow colour
 ### And so on the game continues and your level increases.
+## Gameplay
+
+
+https://user-images.githubusercontent.com/72147696/150076396-6fc593bc-fc91-4495-8feb-3cba7a13de38.mp4
+
